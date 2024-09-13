@@ -14,15 +14,15 @@
 
 ###  Connect with Me
 <p align="center">
-  GitHub<a href="https://github.com/Zuveriya-Munshi" target="_blank">
+  <a href="https://github.com/Zuveriya-Munshi" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
     
   </a>
-   LinkedIn <a href="https://linkedin.com/in/zuveriya-munshi-8b951423a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked--alt.svg" alt="LinkedIn" height="30" width="40" />
+    <a href="https://linkedin.com/in/zuveriya-munshi-8b951423a" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     
   </a>
-   🌎 <a href="https://zuveriya-munshi-portfolio.netlify.app/" target="_blank">
+   <a href="https://zuveriya-munshi-portfolio.netlify.app/" target="_blank">🌎 
 <!--     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Portfolio" height="30" width="40" /> -->
     
   </a>
