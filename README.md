@@ -7,30 +7,23 @@
 
 ### About Me
 
-- 🏫 Final year Btech Student at _Birla Vishwakarma Mahavidhalaya_ in **Computer Engineering**.
+- 🏫 Final year Btech Student at _Birla Vishwakarma Mahavidyalaya , Anand_ in **Computer Engineering**.
+- 🎓 Completed Diploma in **Computer Engineering** from _Maharaja Sayajirao University, Vadodara_.
 - 🌱 Currently diving deep into **React** and enhancing my **Development** expertise.
-- 💬 Ask me anything about **.NET** and **Web Development**.
+- 💬 Ask me anything about **Web Development**.
 - 📫 Reach out to me at **zuveriyamunshi924@gmail.com**.
 
-###  Connect with Me
-<p align="center" style="text-decoration:none;">
-  <a href="https://github.com/Zuveriya-Munshi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-    
-  </a>
-    <a href="https://linkedin.com/in/zuveriya-munshi-8b951423a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    
-  </a>
-   <a href="https://zuveriya-munshi-portfolio.netlify.app/" target="_blank"> 🌎 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/earth.svg" alt="Portfolio" height="30" width="40" />
-    
-  </a>
+### 🔗  Connect with Me
+<p align="center" style="text-decoration: none;">
+ 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zuveriya-munshi-portfolio.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zuveriya-munshi-8b951423a)
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zuveriya-Munshi)
 
 </p>
 
 
-### Languages and Tools
+### 🛠 Languages and Tools
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
