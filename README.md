@@ -1,21 +1,34 @@
-<h1 align="center">Hello there! 👋 I'm Zuveriya Munshi</h1>
-<h3 align="center">A passionate .NET and Web Developer from India</h3>
+![image](https://github.com/user-attachments/assets/4f2d1656-865d-47f7-b2be-99d80c4dd71e)<h1 align="center">Hello there! 👋 I'm Zuveriya Munshi</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zuveriya-munshi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### About Me
-- 🌱 Currently diving deep into **Angular** and enhancing my **.NET** expertise.
+
+- 🏫 Final year Btech Student at _Birla Vishwakarma Mahavidhalaya_ in **Computer Engineering**.
+- 🌱 Currently diving deep into **React** and enhancing my **Development** expertise.
 - 💬 Ask me anything about **.NET** and **Web Development**.
 - 📫 Reach out to me at **zuveriyamunshi924@gmail.com**.
 
-### Connect with Me
+###  Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/zuveriya-munshi-8b951423a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  GitHub<a href="https://github.com/Zuveriya-Munshi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GitHub" height="30" width="40" />
+    
   </a>
+   LinkedIn <a href="https://linkedin.com/in/zuveriya-munshi-8b951423a" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    
+  </a>
+   🌎 <a href="https://zuveriya-munshi-portfolio.netlify.app/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Portfolio" height="30" width="40" />
+    
+  </a>
+
 </p>
+
 
 ### Languages and Tools
 <p align="center">
