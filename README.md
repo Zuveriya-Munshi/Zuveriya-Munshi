@@ -13,7 +13,7 @@
 - 📫 Reach out to me at **zuveriyamunshi924@gmail.com**.
 
 ###  Connect with Me
-<p align="center">
+<p align="center" style="text-decoration:none;">
   <a href="https://github.com/Zuveriya-Munshi" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
     
@@ -22,8 +22,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     
   </a>
-   <a href="https://zuveriya-munshi-portfolio.netlify.app/" target="_blank">🌎 
-<!--     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Portfolio" height="30" width="40" /> -->
+   <a href="https://zuveriya-munshi-portfolio.netlify.app/" target="_blank"> 🌎 
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/earth.svg" alt="Portfolio" height="30" width="40" />
     
   </a>
 
